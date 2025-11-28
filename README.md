@@ -1,16 +1,16 @@
-## Hi there 👋
+# **Hi, I'm Abdullah Ariyanto 👋**
 
-<!--
-**A-Ariyanto/A-Ariyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year Computer Science student at UNSW with a systems-architecture mindset that prioritises scalability, security, and clarity in engineering. My work focuses on building reliable, sustainable solutions rather than surface-level development.
 
-Here are some ideas to get you started:
+I am driven by the intersection between technology and people, aiming to create systems that are genuinely useful and culturally meaningful. I develop projects with purpose, ensuring that what I build provides real value to those who use it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Connect**
+
+* **Portfolio:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your link)
+* **LinkedIn:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](www.linkedin.com/in/abdullah-ariyanto-19bb8525b)
+* **Email:** [![Email](https://img.shields.io/badge/Email-ffffff?style=flat&logo=gmail&logoColor=red)](mailto:abdullahariyanto24@gmail.com)
+
+Explore the repositories below.
+
+
+
